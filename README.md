@@ -5,7 +5,7 @@
 Um conversor de moedas interativo que funciona via console, desenvolvido em Java. Este projeto consome a API **ExchangeRate-API** para obter taxas de câmbio em tempo real e oferece um menu com 6 opções distintas de conversão, além da opção de sair.
 
 ## Sobre o Projeto
-
+ 
 Este projeto foi desenvolvido como parte do Challenge de Java da Alura em parceria com a Oracle (ONE - Oracle Next Education). O objetivo era criar uma aplicação Java do zero, passando pelas etapas de consumo de API, parsing de JSON, criação de interface de usuário no console e manipulação de dados.
 
 ## Funcionalidades
@@ -88,8 +88,9 @@ Sua opção:
 
 ## Autor
 
--   **Gustavo Brandão** - [LinkedIn](https://www.linkedin.com/in/gustavobrandaobr/)
+| [<img loading="lazy" src="https://avatars.githubusercontent.com/Tavobrandao" width=110><br><sub>Gustavo Brandão</sub>](https://www.linkedin.com/in/gustavobrandaobr/) |
+|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 
 ## Licença
 
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](./LICENSE) para mais detalhes.
